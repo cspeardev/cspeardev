@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cspeardev
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning UWP, WPF
+- 👀 I’m interested in C# and Python
+- 🌱 I’m currently learning NixOS
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me here or at my LinkedIn
 
